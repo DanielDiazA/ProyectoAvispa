@@ -1,4 +1,4 @@
-# ProyectoAvispa
+# Proyecto Avispa
 Proyecto para predecir nuevos nidos de avispas asiáticas en los municipios bizkainos
 ![](https://www.latiendadelapicultor.com/blog/wp-content/uploads/2015/10/vespa_velutina1.jpg)
 
@@ -15,5 +15,15 @@ Proyecto para predecir nuevos nidos de avispas asiáticas en los municipios bizk
 
 ### Esquema del Proyecto
 
++ 1. Creacion Tabla Maestra
+    + a
++ Item B
+    + Item B 1
+    + Item B 2
+    + Item B 3
++ Item C
+    * Item C 1
+    * Item C 2
+    * Item C 3
 
 
