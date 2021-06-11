@@ -15,7 +15,7 @@ Proyecto para predecir nuevos nidos de avispas asiáticas en los municipios bizk
 
 ### Esquema de los Scripts del Proyecto
 
-+ 1. Creacion Tabla Maestra
++  Creacion Tabla Maestra
     + Forestal
     + Frutales
     + Poblacion
@@ -23,10 +23,10 @@ Proyecto para predecir nuevos nidos de avispas asiáticas en los municipios bizk
     + Cambio de Nombre
     + Union
     + extra(primeros predictivos)
-+ 2. APP Shiny
++  APP Shiny
     + app
     + Global
-+ 3. Predicción
++  Predicción
     * prediccion
    
 
