@@ -32,6 +32,6 @@ Proyecto para predecir nuevos nidos de avispas asiáticas en los municipios bizk
     * prediccion -> Script con el que hemos hecho las diferentes entregas en el reto (Xgboost mejores resultados)
   
    
-![](https://www.latiendadelapicultor.com/blog/wp-content/uploads/2015/10/vespa_velutina1.jpg)
+![](https://github.com/DanielDiazA/ProyectoAvispa/blob/main/APP.PNG?raw=true)
 
 
