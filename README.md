@@ -13,17 +13,21 @@ Proyecto para predecir nuevos nidos de avispas asiáticas en los municipios bizk
 - Poblacion
 - Nidos de Vespa Velutina 2017/2018/2019
 
-### Esquema del Proyecto
+### Esquema de los Scripts del Proyecto
 
 + 1. Creacion Tabla Maestra
-    + a
-+ Item B
-    + Item B 1
-    + Item B 2
-    + Item B 3
-+ Item C
-    * Item C 1
-    * Item C 2
-    * Item C 3
+    + Forestal
+    + Frutales
+    + Poblacion
+    + Temperaturas
+    + Cambio de Nombre
+    + Union
+    + extra(primeros predictivos)
++ 2. APP Shiny
+    + app
+    + Global
++ 3. Predicción
+    * prediccion
+   
 
 
